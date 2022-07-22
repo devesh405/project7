@@ -10,9 +10,9 @@
   .stores{
     box-sizing:border-box;
     display: grid;
-    grid-template-columns: 30% 30% 30%;
-    grid-template-rows: 200px 200px 200px 200px 200px 200px 200px  ;
-    column-gap: 150px;
+    grid-template-columns: 26% 26% 26% 26%;
+    grid-template-rows: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
+    column-gap: 20px;
     row-gap: 500px;
     text-align: justify;
   }
@@ -172,43 +172,43 @@ padding-bottom: 1rem;
   padding-bottom: 1rem;
 }
 .store-twentynine{
-  width: 70%;
-  height: 110%;
+  width:70%;
+  height: 130%;
   padding-bottom: 1rem;
 }
 .store-thirty{
   width: 70%;
-  height: 110%;
+  height: 130%;
   padding-bottom: 1rem;
 }
 .store-thirtyone{
   width: 70%;
-  height: 110%;
+  height: 130%;
   padding-bottom: 1rem;
 }
 .store-thirtytwo{
   width: 70%;
-  height: 110%;
+  height: 130%;
   padding-bottom: 1rem;
 }
 .store-thirtythree{
   width: 70%;
-  height: 110%;
+  height: 130%;
   padding-bottom: 1rem;
 }
 .store-thirtyfour{
   width: 70%;
-  height: 110%;
+  height: 130%;
   padding-bottom: 1rem;
 }
 .store-thirtyfive{
   width: 70%;
-  height: 110%;
+  height: 130%;
   padding-bottom: 1rem;
 }
 .store-thirtysix{
   width: 70%;
-  height: 110%;
+  height: 130%;
   padding-bottom: 1rem;
 }
 .btn {
